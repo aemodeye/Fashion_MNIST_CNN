@@ -3,18 +3,21 @@ This project implements a Convolutional Neural Network (CNN) using Keras to clas
 
 #Requirements
 The following is required to successfully run the project:
--Python 3.x
--TensorFlow
--Keras
--Matplotlib
--Numpy
+*Python 3.x
+*R
+*TensorFlow
+*Keras
+*Matplotlib
+*Numpy
 
 Installations
 * Usually tensorflow will not be installed by default so we use: pip install tensorflow
 * Clone the repository or download the zip file
+* keras in R and its packages
+
 
 Usage
-*Run the script
+*Run the script on both Python and R
 *You will observe that the model will train on the Fashion MNIST dataset and display the accuracy of the training.
 *After the training, the model will predict two images based on what it has learnt and it will display the predicted image as compared the true image.
 
